@@ -1,7 +1,7 @@
 # The Laughing Broccoli
 
 Hello good people!
-The following is a step-by-step manual on how to make your life easier
+The following is a step-by-step manual on how to make my life easier
 
 ## Resources
 1. [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
@@ -24,14 +24,27 @@ The following is a step-by-step manual on how to make your life easier
 
 
 ### Cooking the broccoli (In Progress)
-- [ ] Read the ticket description
-- [ ] Click on **Linked issues** (if exist) for reference or clarification
-- [ ] @\<reporter\> to ask further questions
-- [ ] Cook the broccoli
+- Read the ticket description
+- Click on **Linked issues** (if exist) for reference or clarification
+- @\<reporter\> to ask further questions
+- Make sure you're in the right branch
+  - `git branch` to check your current branch
+  - If you're just starting the ticket: 
+    1. `git checkout master`
+    2. `git pull origin master`
+    3. `git submodule update --init --recursive`
+    4. `git checkout -b <patch/feature>/CCLE-<ticket#>-<short-ticket-description>`
+  - Else: `git checkout <the ticket's branchname>`
+- Cook the broccoli
 #### Things to note: 
-* Does it follow [moodle coding guidelines](https://docs.moodle.org/dev/Coding_style)?
-* Are you editting core moodle code? *link to file, with target*
-  * Are you 
+* Am I following [moodle coding guidelines](https://docs.moodle.org/dev/Coding_style)?
+* Am I editting core moodle code? *link to file, with target*
+  * If yes, am I surrounding your commits with the appropriate comments? End with a period.
+  ```
+  // START UCLA MOD: CCLE-8459 - Messaging does not email students.
+  Your change here
+  // END UCLA MOD: CCLE-8459.
+  ```
 
 
 ## Making a better broccoli (Tips and Tricks)
@@ -43,3 +56,6 @@ localhost:8001 phpmyadmin
 tips and tricks
 git commands
 summarize the moodle coding guidelines
+All comments should end with a period
+Do not use literal strings, use get_strings()
+editting css, creating js files
