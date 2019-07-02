@@ -1,3 +1,5 @@
+# Coding Guidelines
+
 ### Editting Core code
 Source: Tulasi\
 Core code is all of the code that has **nothing** to do with UCLA. \
