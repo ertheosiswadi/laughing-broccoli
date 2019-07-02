@@ -1,7 +1,7 @@
 # The Laughing Broccoli
 
 Hello good people!
-The following is a step-by-step manual on how to make my life easier
+The following is a step-by-step walkthrough on how to make my life easier
 
 ## Resources
 1. [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
@@ -13,7 +13,7 @@ The following is a step-by-step manual on how to make my life easier
 
 ## Checklist
 
-### Prepping the broccoli
+### Prepping your kitchen
 - [ ] Monday? New sprint? [Checkout your new partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
 - [ ] Check out the [Jira board](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) to see what is up for today
   - Go right to left. Prioritize tickets on **testing** or **code review**.
@@ -24,7 +24,7 @@ The following is a step-by-step manual on how to make my life easier
 - [ ] Open your :heart: IDE
 
 
-### Cooking the broccoli (In Progress)
+### Cooking your broccoli (In Progress)
 - Read the ticket description
 - Click on **Linked issues** (if exist) for reference or clarification
 - @\<reporter\> to ask further questions
@@ -55,22 +55,63 @@ The following is a step-by-step manual on how to make my life easier
   Your change here
   // END UCLA MOD: CCLE-8459.
   ```
-### Plating the broccoli
+### Plating your broccoli (In Progress &#8594; Code Review)
 - When you're done, organize it to **one or several logical commits** (tip: [git squash]()). Use your senses :massage: .... When in doubt, ask Rex :raising_hand:
 - `git push -u origin <branch_name>`
 - Go to [Github Moodle](https://github.com/ucla/moodle) and copy the link of your commit
 - [Go to Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) 
   - Write out [test instructions](), before you forget lol
+    - consider all possible cases of the problem
   - @\<reviewer\> \<ask to please review nicely\>: \<link to commit\>
   - Assign your peer reviewer and tester
   - Assign the ticket to your reviewer
   - Change the status from In Progress &#8594; Code Review
 - Give yourself a pat in the back :clap: :relaxed:
 
-### Reconsider the broccoli (Code Review)
+### Please taste my broccoli (Passed Code Review)
+When you've received your ticket back and it passed review
+- Push to the `development` branch ([git commands]())
+```
+git checkout development
+git pull origin development
+git merge --no-ff <branchname>
+git push origin development
+```
+- Make sure you have test instructions on [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
+- @\<tester\> Please test \<possibly a cute emoji\>
+- Assign your ticket to your tester
+- Change the status from Code Review &#8594; Testing
+
+
+### Reconsidering your friend's broccoli (Code Review)
 - Understand the problem. Clarify with ticket owner
 - Look for the link to the github commit
+- Reconsider the broccoli
+- [Peer review checklist]()
+  - [ ] Syntax
+  - [ ] Output
+  - [ ] Language
+  - [ ] Databases
+  - [ ] Testing (instructions and automated tests)
+  - [ ] Security
+  - [ ] Privacy (see Privacy API)
+  - [ ] Performance and Clustering
+  - [ ] Documentation
+  - [ ] Git
+  - [ ] Third party code
+  - [ ] Sanity check
+  - [ ] Icons
+- [Coding rules]()
+- Make comments on Github or Jira as needed
+- @/<owner/> and mention whether the broccoli looks good or not.
+- Assign ticket back to owner
+- If broccoli **looks good**: move to Testing
+- Else: move to In Progress
 
+### Tasting your friend's broccoli (Testing)
+- Understand the problem
+- Make sure there are **Test Instructions** that considers all possible cases of the problem.
+- NOW [TASTE](https://test.ccle.ucla.edu/) IT :tongue: :yum: :mask: 
 
 ## Making a better broccoli (Tips and Tricks)
 * Surround commit with comments UCLA MOD:
