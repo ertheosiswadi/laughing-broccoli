@@ -12,5 +12,25 @@ The following is a step-by-step manual on how to make your life easier
 6. [Moodle Docker Setup](https://github.com/ccle/moodle-docker)
 
 ## Checklist
-- [ ] - Is today a Monday? Is it the start of a new sprint? [New Partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
-- [ ] - a
+
+### Prepping the broccoli
+- [ ] Is today a Monday? Is it the start of a new sprint? [Checkout your new partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
+- [ ] Let's checkout the [Jira board](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) to see what is up for today
+  - Go from right to left. Prioritize tickets on **testing** or **code review**.
+- [ ] Let's go terminal
+- [ ] Start up your local DEV
+- [ ] Log in to Slack
+- [ ] Open your :heart: IDE
+
+
+### Cooking the broccoli (In Progress)
+- [ ] Read the ticket description
+- [ ] Click on **Linked issues** (if exist) for reference or clarification
+- [ ] @<reporter> to ask further questions
+- [ ] Cook the broccoli
+
+## Junk
+localhost:8000
+localhost:8001 phpmyadmin
+tips and tricks
+git commands
