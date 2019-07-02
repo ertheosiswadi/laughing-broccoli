@@ -38,7 +38,7 @@ The following is a step-by-step manual on how to make my life easier
     git checkout -b <patch/feature>/CCLE-<ticket#>-<short-ticket-description>
     ```
   - Else: `git checkout <the ticket's branchname>`
-- Cook the broccoli
+- Cook the broccoli [tips and tricks]()
 - Make git commits as needed
   - Only add changes you made. Sometimes you'll see that there are changes that you didn't make (submodule updates).
   ```
@@ -46,14 +46,24 @@ The following is a step-by-step manual on how to make my life easier
   git add <file1> <file2> ... <filex>
   git commit -m "CCLE-#### - A useful short comment summarizing what you did."
   ```
-#### Things to note: 
+##### Things to note: 
 * Am I following [moodle coding guidelines](https://docs.moodle.org/dev/Coding_style)?
-* Am I editting core moodle code? *link to file, with target*
+* Am I editting core moodle code? [click here]()*link to file, with target*
   * If yes, am I surrounding your commits with the appropriate comments? End with a period.
   ```
   // START UCLA MOD: CCLE-8459 - Messaging does not email students.
   Your change here
   // END UCLA MOD: CCLE-8459.
+### Plating the broccoli
+- When you're done, organize it to **one or several logical commits** (tip: [git squash]()). Use your senses :massage: .... When in doubt, ask Rex :raising_hand:
+- `git push -u origin <branch_name>`
+- [Go to Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) 
+  - Write out [test instructions]()
+  - Assign your peer reviewer and tester
+  - Assign the ticket to your reviewer
+  - Change the status from In Progress &#8594; Code Review
+- Give yourself a pat in the back :clap: :relaxed:
+
   ```
 
 
@@ -69,3 +79,4 @@ summarize the moodle coding guidelines
 All comments should end with a period
 Do not use literal strings, use get_strings()
 editting css, creating js files
+Adding new tickets from the backlog
