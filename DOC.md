@@ -54,17 +54,22 @@ The following is a step-by-step manual on how to make my life easier
   // START UCLA MOD: CCLE-8459 - Messaging does not email students.
   Your change here
   // END UCLA MOD: CCLE-8459.
+  ```
 ### Plating the broccoli
 - When you're done, organize it to **one or several logical commits** (tip: [git squash]()). Use your senses :massage: .... When in doubt, ask Rex :raising_hand:
 - `git push -u origin <branch_name>`
+- Go to [Github Moodle](https://github.com/ucla/moodle) and copy the link of your commit
 - [Go to Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) 
-  - Write out [test instructions]()
+  - Write out [test instructions](), before you forget lol
+  - @\<reviewer\> \<ask to please review nicely\>: \<link to commit\>
   - Assign your peer reviewer and tester
   - Assign the ticket to your reviewer
   - Change the status from In Progress &#8594; Code Review
 - Give yourself a pat in the back :clap: :relaxed:
 
-  ```
+### Reconsider the broccoli (Code Review)
+- Understand the problem. Clarify with ticket owner
+- Look for the link to the github commit
 
 
 ## Making a better broccoli (Tips and Tricks)
