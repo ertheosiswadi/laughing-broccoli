@@ -1,4 +1,4 @@
-#### Editting Core code
+### Editting Core code
 Contributor: Tulasi
 Core code is all of the code that has **nothing** to do with UCLA. 
 
