@@ -14,7 +14,7 @@
 Source: Tulasi\
 Core code is all of the code that has **nothing** to do with UCLA. \
 Code that is under local/ucla or theme/ucla** is our **custom code**
-### What to do
+### What to do?
 Look at the example below\
 **Remember** that all comments must end with a **period.**
 ```
