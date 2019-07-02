@@ -14,11 +14,12 @@ The following is a step-by-step manual on how to make my life easier
 ## Checklist
 
 ### Prepping the broccoli
-- [ ] Is today a Monday? Is it the start of a new sprint? [Checkout your new partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
-- [ ] Let's checkout the [Jira board](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) to see what is up for today
-  - Go from right to left. Prioritize tickets on **testing** or **code review**.
-- [ ] Let's go terminal
+- [ ] Monday? New sprint? [Checkout your new partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
+- [ ] Check out the [Jira board](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) to see what is up for today
+  - Go right to left. Prioritize tickets on **testing** or **code review**.
+- [ ] Let's go terminal! :muscle:
 - [ ] Start up your local DEV
+  - `sudo -E bin/moodle-docker-compose up -d`
 - [ ] Log in to Slack
 - [ ] Open your :heart: IDE
 
@@ -30,12 +31,21 @@ The following is a step-by-step manual on how to make my life easier
 - Make sure you're in the right branch
   - `git branch` to check your current branch
   - If you're just starting the ticket: 
-    1. `git checkout master`
-    2. `git pull origin master`
-    3. `git submodule update --init --recursive`
-    4. `git checkout -b <patch/feature>/CCLE-<ticket#>-<short-ticket-description>`
+    ```
+    git checkout master
+    git pull origin master
+    git submodule update --init --recursive
+    git checkout -b <patch/feature>/CCLE-<ticket#>-<short-ticket-description>
+    ```
   - Else: `git checkout <the ticket's branchname>`
 - Cook the broccoli
+- Make git commits as needed
+  - Only add changes you made. Sometimes you'll see that there are changes that you didn't make (submodule updates).
+  ```
+  git status
+  git add <file1> <file2> ... <filex>
+  git commit -m "CCLE-#### - A useful short comment summarizing what you did."
+  ```
 #### Things to note: 
 * Am I following [moodle coding guidelines](https://docs.moodle.org/dev/Coding_style)?
 * Am I editting core moodle code? *link to file, with target*
