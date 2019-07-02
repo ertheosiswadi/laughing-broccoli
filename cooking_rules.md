@@ -1,6 +1,6 @@
 # Coding Guidelines
 
-## Coding guidelines
+## Coding Rules
 - [CCLE Coding Standard](https://ccle.ucla.edu/mod/wiki/view.php?pageid=1639)
 - Moodle Coding Style - [General or PHP](https://docs.moodle.org/dev/Coding_style),
 [CSS](https://docs.moodle.org/dev/CSS_Coding_Style),
