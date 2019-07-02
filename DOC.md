@@ -26,11 +26,20 @@ The following is a step-by-step manual on how to make your life easier
 ### Cooking the broccoli (In Progress)
 - [ ] Read the ticket description
 - [ ] Click on **Linked issues** (if exist) for reference or clarification
-- [ ] @<reporter> to ask further questions
+- [ ] @\<reporter\> to ask further questions
 - [ ] Cook the broccoli
+#### Things to note: 
+* Does it follow [moodle coding guidelines](https://docs.moodle.org/dev/Coding_style)?
+* Are you editting core moodle code? *link to file, with target*
+  * Are you 
+
+
+## Making a better broccoli (Tips and Tricks)
+* Surround commit with comments UCLA MOD:
 
 ## Junk
 localhost:8000
 localhost:8001 phpmyadmin
 tips and tricks
 git commands
+summarize the moodle coding guidelines
