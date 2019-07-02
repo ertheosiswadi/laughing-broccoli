@@ -10,18 +10,21 @@ The following is a step-by-step walkthrough on how to make my life easier
 4. [Moodle Coding Style](https://docs.moodle.org/dev/Coding_style)
 5. [Git Moodle Walkthrough](https://kb.ucla.edu/articles/ucla-git-walkthrough-for-moodle)
 6. [Moodle Docker Setup](https://github.com/ccle/moodle-docker)
+7. [Git for dummies](https://github.com/k88hudson/git-flight-rules#flight-rules-for-git)
+8. [WTH is git rebase](https://git-rebase.io/)
+
 
 ## Checklist
 
 ### Prepping your kitchen
-- [ ] Monday? New sprint? [Checkout your new partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
-- [ ] Check out the [Jira board](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) to see what is up for today
+- Monday? New sprint? [Checkout your new partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
+- Check out the [Jira board](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) to see what is up for today
   - Go right to left. Prioritize tickets on **testing** or **code review**.
-- [ ] Let's go terminal! :muscle:
-- [ ] Start up your local DEV
+- Let's go terminal! :muscle:
+- Start up your local DEV
   - `sudo -E bin/moodle-docker-compose up -d`
-- [ ] Log in to Slack
-- [ ] Open your :heart: IDE
+- Log in to Slack
+- Open your :heart: IDE
 
 
 ### Cooking your broccoli (In Progress)
@@ -46,16 +49,16 @@ The following is a step-by-step walkthrough on how to make my life easier
   git add <file1> <file2> ... <filex>
   git commit -m "CCLE-#### - A useful short comment summarizing what you did."
   ```
-##### Things to note: 
-* Am I following [moodle coding guidelines](https://docs.moodle.org/dev/Coding_style)?
-* Am I editting core moodle code? [click here]()*link to file, with target*
-  * If yes, am I surrounding your commits with the appropriate comments? End with a period.
+
+### Plating your broccoli (In Progress &#8594; Code Review)
+**Final checks:**
+* Am I following these [coding rules]()
+* Am I editting core moodle code? [click here]()
   ```
   // START UCLA MOD: CCLE-8459 - Messaging does not email students.
   Your change here
   // END UCLA MOD: CCLE-8459.
   ```
-### Plating your broccoli (In Progress &#8594; Code Review)
 - When you're done, organize it to **one or several logical commits** (tip: [git squash]()). Use your senses :massage: .... When in doubt, ask Rex :raising_hand:
 - `git push -u origin <branch_name>`
 - Go to [Github Moodle](https://github.com/ucla/moodle) and copy the link of your commit
@@ -103,7 +106,7 @@ git push origin development
   - [ ] Icons
 - [Coding rules]()
 - Make comments on Github or Jira as needed
-- @/<owner/> and mention whether the broccoli looks good or not.
+- @\<owner\> and mention whether the broccoli looks good or not.
 - Assign ticket back to owner
 - If broccoli **looks good**: move to Testing
 - Else: move to In Progress
@@ -112,6 +115,10 @@ git push origin development
 - Understand the problem
 - Make sure there are **Test Instructions** that considers all possible cases of the problem.
 - NOW [TASTE](https://test.ccle.ucla.edu/) IT :tongue: :yum: :mask: 
+- @\<owner\> and mention whether the broccoli is delicious or not
+- Assign ticket back to owner
+- If broccoli is **delicious**: move to Passed :white_check_mark:
+- Else: move to In Progress
 
 ## Making a better broccoli (Tips and Tricks)
 * Surround commit with comments UCLA MOD:
