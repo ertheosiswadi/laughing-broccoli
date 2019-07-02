@@ -1,6 +1,6 @@
 # Coding Guidelines
 
-### Coding guidelines
+## Coding guidelines
 - [CCLE Coding Standard](https://ccle.ucla.edu/mod/wiki/view.php?pageid=1639)
 - Moodle Coding Style - [General or PHP](https://docs.moodle.org/dev/Coding_style),
 [CSS](https://docs.moodle.org/dev/CSS_Coding_Style),
@@ -9,12 +9,12 @@
 - [Code checker on DEV](http://localhost:8000/local/codechecker/index.php)
 - [PHPdoc checker on DEV](http://localhost:8000/local/moodlecheck/index.php)
 
-### Editting Core code
-##### What is core code?
+## Editting Core code
+### What is core code?
 Source: Tulasi\
 Core code is all of the code that has **nothing** to do with UCLA. \
-Code that is under local/ucla or theme/ucla** is our **custom code**\
-##### What to do
+Code that is under local/ucla or theme/ucla** is our **custom code**
+### What to do
 Look at the example below\
 **Remember** that all comments must end with a **period.**
 ```
