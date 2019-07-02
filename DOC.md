@@ -11,3 +11,6 @@ The following is a step-by-step manual on how to make your life easier
 5. [Git Moodle Walkthrough](https://kb.ucla.edu/articles/ucla-git-walkthrough-for-moodle)
 6. [Moodle Docker Setup](https://github.com/ccle/moodle-docker)
 
+## Checklist
+- [ ] - Is today a Monday? Is it the start of a new sprint? [New Partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
+- [ ] - a
