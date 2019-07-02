@@ -21,8 +21,7 @@ The following is a step-by-step walkthrough on how to make my life easier
 - Check out the [Jira board](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) to see what is up for today
   - Go right to left. Prioritize tickets on **testing** or **code review**.
 - Let's go terminal! :muscle:
-- Start up your local DEV
-  - `sudo -E bin/moodle-docker-compose up -d`
+- Start up your local DEV [(cmd)](docker_tips.md#start-container)
 - Log in to Slack
 - Open your :heart: IDE
 
@@ -33,33 +32,19 @@ The following is a step-by-step walkthrough on how to make my life easier
 - @\<reporter\> to ask further questions
 - Make sure you're in the right branch
   - `git branch` to check your current branch
-  - If you're just starting the ticket: 
-    ```
-    git checkout master
-    git pull origin master
-    git submodule update --init --recursive
-    git checkout -b <patch/feature>/CCLE-<ticket#>-<short-ticket-description>
-    ```
+  - If you're just starting the ticket, [create a new branch](git_stuff.md#create-a-new-branch-off-master): 
   - Else: `git checkout <the ticket's branchname>`
-- Cook the broccoli [tips and tricks]()
-- Make git commits as needed
+- Cook the broccoli [tips and tricks](cooking_tips.md)
+- Make git commits as needed ([cmd](git_stuff.md#commit-files-you-changed))
   - Only add changes you made. Sometimes you'll see that there are changes that you didn't make (submodule updates).
-  ```
-  git status
-  git add <file1> <file2> ... <filex>
-  git commit -m "CCLE-#### - A useful short comment summarizing what you did."
-  ```
 
 ### Plating your broccoli (In Progress &#8594; Code Review)
 **Final checks:**
-* Am I following these [coding rules]()
-* Am I editting core moodle code? [click here]()
-  ```
-  // START UCLA MOD: CCLE-8459 - Messaging does not email students.
-  Your change here
-  // END UCLA MOD: CCLE-8459.
-  ```
-- When you're done, organize it to **one or several logical commits** (tip: [git squash]()). Use your senses :massage: .... When in doubt, ask Rex :raising_hand:
+* Am I following these [coding rules](cooking_rules.md#coding-guidelines-1)
+* Am I editting core moodle code? [click here](cooking_rules.md#what-to-do)
+
+**When you're done** 
+- organize it to **one or several logical commits** (tip: [git squash]()). Use your senses :massage: .... When in doubt, ask Rex :raising_hand:
 - `git push -u origin <branch_name>`
 - Go to [Github Moodle](https://github.com/ucla/moodle) and copy the link of your commit
 - [Go to Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) 
@@ -119,6 +104,9 @@ git push origin development
 - Assign ticket back to owner
 - If broccoli is **delicious**: move to Passed :white_check_mark:
 - Else: move to In Progress
+
+### Cleaning your kitchen (Optional)
+- Stop your local dev [(cmd)](docker_tips.md#stop-container)
 
 ## Making a better broccoli (Tips and Tricks)
 * Surround commit with comments UCLA MOD:
