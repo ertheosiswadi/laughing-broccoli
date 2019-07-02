@@ -40,7 +40,7 @@ The following is a step-by-step walkthrough on how to make my life easier
 
 ### Plating your broccoli (In Progress &#8594; Code Review)
 **Final checks:**
-* Am I following these [coding rules](cooking_rules.md#coding-guidelines-1)
+* Am I following these [coding rules](cooking_rules.md#coding-rules)
 * Am I editting core moodle code? [click here](cooking_rules.md#what-to-do)
 
 **When you're done** 
