@@ -10,10 +10,12 @@
 - [PHPdoc checker on DEV](http://localhost:8000/local/moodlecheck/index.php)
 
 ### Editting Core code
+##### What is core code?
 Source: Tulasi\
 Core code is all of the code that has **nothing** to do with UCLA. \
 Code that is under local/ucla or theme/ucla** is our **custom code**\
-Surround your change with START/END UCLA MOD: CCLE-# comments\
+##### What to do
+Look at the example below\
 **Remember** that all comments must end with a **period.**
 ```
 // START UCLA MOD: CCLE-8459 - Messaging does not email students.
