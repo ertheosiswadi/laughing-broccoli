@@ -2,10 +2,8 @@
 
 Hello good people!
 The following is a step-by-step walkthrough on how to make my life easier
-<br>
-<p align="center">
-  <img height="300" src="laughing_broccoli.jpg">
-</p>
+
+<img align="left" height="300" src="laughing_broccoli.jpg">
 
 ## Table of Contents
 #### My broccoli
