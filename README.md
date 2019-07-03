@@ -2,7 +2,7 @@
 
 Hello good people!
 The following is a step-by-step walkthrough on how to make my life easier
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ## Table of Contents
 #### My broccoli
 1. [Prepping your kitchen](#prepping-your-kitchen)
@@ -30,7 +30,7 @@ The following is a step-by-step walkthrough on how to make my life easier
 ## Checklist
 
 ### Prepping your kitchen
-- Monday? New sprint? [Checkout your new partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
+- Monday? New sprint? [Check out your new partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
 - Check out the [Jira board](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) to see what is up for today
   - Go right to left. Prioritize tickets on **testing** or **code review**.
 - Let's go terminal! :muscle:
