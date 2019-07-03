@@ -132,10 +132,17 @@ When you find more issues that are unrelated to your ticket, please:
 ### CCLE stuff
 - [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
 - [Developer Subgroup](https://ccle.ucla.edu/course/view/CCLE_Subgroups?section=2)
+- CCLE Servers - 
+[TEST](https://test.ccle.ucla.edu),
+[PREVIEW](https://preview.ccle.ucla.edu),
+[STAGE](https://stage.ccle.ucla.edu),
+[PROD](https://ccle.ucla.edu)
 ### [Coding guidelines](cooking_rules.md#coding-rules)
 ### Docker stuff
 - [Moodle Docker Setup](https://github.com/ccle/moodle-docker)
 ### Misc
+- [Coding for violent psychopaths](https://blog.codinghorror.com/coding-for-violent-psychopaths/)
+- [Moodle Peer Review](https://docs.moodle.org/dev/Peer_reviewing)
  #### Tech Talks
  - [Agile Overview 2019](https://ccle.ucla.edu/mod/url/view.php?id=2511624)
  - [Development workflow](https://ccle.ucla.edu/mod/url/view.php?id=2506830)
