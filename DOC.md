@@ -17,6 +17,7 @@ The following is a step-by-step walkthrough on how to make my life easier
 ## Checklist
 
 ### Prepping your kitchen
+------
 - Monday? New sprint? [Checkout your new partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
 - Check out the [Jira board](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) to see what is up for today
   - Go right to left. Prioritize tickets on **testing** or **code review**.
@@ -27,6 +28,7 @@ The following is a step-by-step walkthrough on how to make my life easier
 
 
 ### Cooking your broccoli (In Progress)
+------
 - Read the ticket description
 - Click on *Linked issues* (if exist) for reference or clarification
 - @\<reporter\> to ask further questions
@@ -39,6 +41,7 @@ The following is a step-by-step walkthrough on how to make my life easier
   - Only add changes you made. Sometimes you'll see that there are changes that you didn't make (submodule updates).
 
 ### Plating your broccoli (In Progress &#8594; Code Review)
+------
 **Final checks:**
 * Am I following these [coding rules](cooking_rules.md#coding-rules)
 * Am I editting core moodle code? [click here](cooking_rules.md#what-to-do)
