@@ -16,9 +16,13 @@ Core code is all of the code that has **nothing** to do with UCLA. \
 Code that is under local/ucla or theme/ucla** is our **custom code**
 ### What to do?
 Look at the example below\
-**Remember** that all comments must end with a **period.**
+**Remember**
+* all comments must end with a **period.**
+* Keep the old code by commenting it out
+* try not to nest with in core edits
 ```
 // START UCLA MOD: CCLE-8459 - Messaging does not email students.
+// Original code
 Your change here
 // END UCLA MOD: CCLE-8459.
 ```
