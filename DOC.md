@@ -15,7 +15,7 @@ The following is a step-by-step walkthrough on how to make my life easier
 7. [Tasting your friend's broccoli](#tasting-your-friends-broccoli-testing) (Testing)
 #### Emm...
 8. [Getting more broccoli](#getting-more-broccoli-backlog) ([Backlog](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE&view=planning.nodetail))
-9. [My broccoli had babies](#my-broccoli-had-babies-creating-new-tickets) (Creating new tickets)
+9. [Found new broccoli](#my-broccoli-had-babies-creating-new-tickets) (Creating new tickets)
 ## Resources
 1. [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
 2. [Developer Subgroup](https://ccle.ucla.edu/course/view/CCLE_Subgroups?section=2)
@@ -112,7 +112,7 @@ When you have nothing left to do, you may
 * Assign yourself the ticket
 * Change the *Sprint* to the current sprint
 * Don't forget to move it to *In Progress*
-### My broccoli had babies (Creating new tickets)
+### Found new broccoli (Creating new tickets)
 When you find more issues that are unrelated to your ticket, please:
 * Consult Rex and ask if new tickets can be created
 * Click on the + button on the left pane
