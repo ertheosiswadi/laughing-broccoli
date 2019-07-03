@@ -1,5 +1,6 @@
 # Making a better broccoli (Tips and Tricks)
-Common issues documented [here](https://ccle.ucla.edu/mod/qanda/view.php?id=897711)
+Common issues documented [here](https://ccle.ucla.edu/mod/qanda/view.php?id=897711)\
+[Your code maintainer is a violent psychopath](https://blog.codinghorror.com/coding-for-violent-psychopaths/)
 ## How to use Strings
 
 ## Usefule links
@@ -12,5 +13,5 @@ Common issues documented [here](https://ccle.ucla.edu/mod/qanda/view.php?id=8977
 
 ## How to edit CSS
 
-## How to 
-
+## How to SSH to docker
+[click here](docker_tips.md#ssh-into-container)
