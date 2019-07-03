@@ -47,7 +47,8 @@ The following is a step-by-step walkthrough on how to make my life easier
 - organize it to **one or several logical commits** (tip: [git squash](git_stuff.md#squashing-commits)). Use your senses :massage: .... When in doubt, ask Rex :raising_hand:
 - `git push -u origin <branch_name>`
 - Go to [moodle github](https://github.com/ucla/moodle) and copy the link of your commit
-- [Go to Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) 
+- [Go to Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
+  - Add screenshots if you're changing UI
   - Write out [test instructions](), before you forget lol
     - consider all possible cases of the problem
   - @\<reviewer\> \<ask to please review nicely\>: \<link to commit\>
@@ -58,40 +59,22 @@ The following is a step-by-step walkthrough on how to make my life easier
 
 ### Please taste my broccoli (Passed Code Review)
 When you've received your ticket back and it passed review
-- Push to the `development` branch ([git commands]())
-```
-git checkout development
-git pull origin development
-git merge --no-ff <branchname>
-git push origin development
-```
+- Push to the `development` branch ([cmd](git_stuff.md#pushing-to-development))
 - Make sure you have test instructions on [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
 - @\<tester\> Please test \<possibly a cute emoji\>
 - Assign your ticket to your tester
 - Change the status from Code Review &#8594; Testing
 
-
 ### Reconsidering your friend's broccoli (Code Review)
 - Understand the problem. Clarify with ticket owner
 - Look for the link to the github commit
 - Reconsider the broccoli
-- [Peer review checklist]()
-  - [ ] Syntax
-  - [ ] Output
-  - [ ] Language
-  - [ ] Databases
-  - [ ] Testing (instructions and automated tests)
-  - [ ] Security
-  - [ ] Privacy (see Privacy API)
-  - [ ] Performance and Clustering
-  - [ ] Documentation
-  - [ ] Git
-  - [ ] Third party code
-  - [ ] Sanity check
-  - [ ] Icons
-- [Coding rules]()
+- [Peer review checklist](peer_review.md#peer-review-checklist)
+- [Coding rules](peer_review.md#peer-review-checklist)
 - Make comments on Github or Jira as needed
-- @\<owner\> and mention whether the broccoli looks good or not.
+- @\<owner\>
+  - mention whether the broccoli looks good or not.
+  - paste your [peer review checklist](peer_review.md#peer-review-checklist)
 - Assign ticket back to owner
 - If broccoli **looks good**: move to Testing
 - Else: move to In Progress
