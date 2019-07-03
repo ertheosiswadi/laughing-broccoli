@@ -123,12 +123,16 @@ When you find more issues that are unrelated to your ticket, please:
 
 ----
 
-## Resources
-1. [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
-2. [Developer Subgroup](https://ccle.ucla.edu/course/view/CCLE_Subgroups?section=2)
-3. [Git Squash](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)
-4. [Moodle Coding Style](https://docs.moodle.org/dev/Coding_style)
-5. [Git Moodle Walkthrough](https://kb.ucla.edu/articles/ucla-git-walkthrough-for-moodle)
-6. [Moodle Docker Setup](https://github.com/ccle/moodle-docker)
-7. [Git for dummies](https://github.com/k88hudson/git-flight-rules#flight-rules-for-git)
-8. [WTH is git rebase](https://git-rebase.io/)
+## Outside Resources
+### Git stuff
+- [Git for dummies](https://github.com/k88hudson/git-flight-rules#flight-rules-for-git)
+- [WTH is git rebase](https://git-rebase.io/)
+- [Git Moodle Walkthrough](https://kb.ucla.edu/articles/ucla-git-walkthrough-for-moodle)
+- [Git Squash](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)
+### Misc
+- [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
+- [Developer Subgroup](https://ccle.ucla.edu/course/view/CCLE_Subgroups?section=2)
+### [Coding guidelines](cooking_rules.md#coding-rules)
+### Docker stuff
+- [Moodle Docker Setup](https://github.com/ccle/moodle-docker)
+
