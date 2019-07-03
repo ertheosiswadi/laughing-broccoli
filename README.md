@@ -74,7 +74,8 @@ The following is a step-by-step walkthrough on how to cook the perfect broccoli
 
 ### Please taste my broccoli (Passed Code Review)
 When you've received your ticket back and it passed review
-- Push to the `development` branch ([cmd](git_stuff.md#pushing-to-development))
+- Push to the `development` branch ([cmd](git_stuff.md#pushing-to-development))\
+Note that changes to the `development` branch will be reflected on [TEST](https://test.ccle.ucla.edu)
 - Make sure you have test instructions on [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
 - @\<tester\> Please test \<possibly a cute emoji\>
 - Assign your ticket to your tester
