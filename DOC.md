@@ -13,6 +13,9 @@ The following is a step-by-step walkthrough on how to make my life easier
 #### Friend's broccoli
 5. [Reconsidering your friend's broccoli (Code Review)](#reconsidering-your-friends-broccoli-code-review)
 6. [Tasting your friend's broccoli (Testing)](#tasting-your-friends-broccoli-testing)
+#### Emm...
+8. [Getting more broccolis]() ([Backlog](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE&view=planning.nodetail))
+9. [My broccoli had babies]() (Creating new tickets)
 ## Resources
 1. [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
 2. [Developer Subgroup](https://ccle.ucla.edu/course/view/CCLE_Subgroups?section=2)
@@ -25,7 +28,8 @@ The following is a step-by-step walkthrough on how to make my life easier
 
 
 ## Checklist
-
+### Getting more broccolis (Backlog)
+### My broccoli had babies (Creating new tickets)
 ### Prepping your kitchen
 - Monday? New sprint? [Checkout your new partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
 - Check out the [Jira board](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) to see what is up for today
