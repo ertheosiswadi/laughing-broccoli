@@ -1,4 +1,4 @@
-<img align="left" height="90" src="laughing_broccoli.jpg" style="max-width:100%;padding-top: 30px;">
+<img style="padding-top: 30px;" align="left" height="90" src="laughing_broccoli.jpg">
 
 # The Laughing Broccoli 
 
