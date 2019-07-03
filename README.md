@@ -2,7 +2,7 @@
 
 Hello good people!
 The following is a step-by-step walkthrough on how to make my life easier
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Laughing Broccoli](laughing_broccoli.jpg)
 ## Table of Contents
 #### My broccoli
 1. [Prepping your kitchen](#prepping-your-kitchen)
