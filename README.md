@@ -2,8 +2,8 @@
 
 # The Laughing Broccoli 
 
-Hello good people!
-The following is a step-by-step walkthrough on how to make my life easier
+Hello good people!\
+The following is a step-by-step walkthrough on how to cook the perfect broccoli
 ### How to use:
 * See where you are in the Table of Contents
   * Whose broccoli are you dealing with?
