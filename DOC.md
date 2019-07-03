@@ -6,10 +6,10 @@ The following is a step-by-step walkthrough on how to make my life easier
 ## Table of Contents
 #### My broccoli
 1. [Prepping your kitchen](#prepping-your-kitchen)
-2. [Cooking your broccoli (In Progress)](#cooking-your-broccoli-in-progress)
-3. [Plating your broccoli (In Progress &#8594; Code Review)](#cooking-your-broccoli-in-progress)
-4. [Please taste my broccoli (Passed Code Review)](#plating-your-broccoli-in-progress--code-review)
-7. [Cleaning your kitchen (Optional)](#cleaning-your-kitchen-optional)
+2. [Cooking your broccoli](#cooking-your-broccoli-in-progress)(In Progress)
+3. [Plating your broccoli](#cooking-your-broccoli-in-progress) (In Progress &#8594; Code Review)
+4. [Please taste my broccoli](#plating-your-broccoli-in-progress--code-review) (Passed Code Review)
+7. [Cleaning your kitchen](#cleaning-your-kitchen-optional)
 #### Friend's broccoli
 5. [Reconsidering your friend's broccoli (Code Review)](#reconsidering-your-friends-broccoli-code-review)
 6. [Tasting your friend's broccoli (Testing)](#tasting-your-friends-broccoli-testing)
