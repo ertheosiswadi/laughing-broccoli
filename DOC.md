@@ -6,7 +6,7 @@ The following is a step-by-step walkthrough on how to make my life easier
 ## Table of Contents
 #### My broccoli
 1. [Prepping your kitchen](#prepping-your-kitchen)
-2. [Cooking your broccoli](#cooking-your-broccoli-in-progress)(In Progress)
+2. [Cooking your broccoli](#cooking-your-broccoli-in-progress) (In Progress)
 3. [Plating your broccoli](#cooking-your-broccoli-in-progress) (In Progress &#8594; Code Review)
 4. [Please taste my broccoli](#plating-your-broccoli-in-progress--code-review) (Passed Code Review)
 7. [Cleaning your kitchen](#cleaning-your-kitchen-optional)
