@@ -1,11 +1,16 @@
-### Editting Core code
-Source: Tulasi\
-Core code is all of the code that has **nothing** to do with UCLA. \
-Code that is under local/ucla or theme/ucla** is our **custom code**\
-Surround your change with START/END UCLA MOD: CCLE-# comments\
-**Remember** that all comments must end with a **period.**
-```
-// START UCLA MOD: CCLE-8459 - Messaging does not email students.
-Your change here
-// END UCLA MOD: CCLE-8459.
-```
+# Making a better broccoli (Tips and Tricks)
+Common issues documented [here](https://ccle.ucla.edu/mod/qanda/view.php?id=897711)
+## How to use Strings
+
+## URL to local DEV
+`localhost:8000`
+
+## URL to phpMyAdmin
+`localhost:8001`
+
+## How to create JS files
+
+## How to edit CSS
+
+## How to 
+
