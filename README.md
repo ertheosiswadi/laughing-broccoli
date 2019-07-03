@@ -2,7 +2,11 @@
 
 Hello good people!
 The following is a step-by-step walkthrough on how to make my life easier
-![Image of Laughing Broccoli](laughing_broccoli.jpg)
+
+<p align="center">
+  <img height="500" src="laughing_broccoli.jpg">
+</p>
+
 ## Table of Contents
 #### My broccoli
 1. [Prepping your kitchen](#prepping-your-kitchen)
