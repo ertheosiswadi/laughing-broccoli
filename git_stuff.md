@@ -1,3 +1,10 @@
+## Pushing to development
+```
+git checkout development
+git pull origin development
+git merge --no-ff <branchname>
+git push origin development
+```
 ## Create a new branch off master
 ```
 git checkout master
