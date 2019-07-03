@@ -9,6 +9,8 @@ The following is a step-by-step walkthrough on how to make my life easier\
   * Whose broccoli are you dealing with?
 * Click on it and go through the points
 
+----
+
 ## Table of Contents
 #### My broccoli
 1. [Prepping your kitchen](#prepping-your-kitchen)
@@ -24,6 +26,8 @@ The following is a step-by-step walkthrough on how to make my life easier\
 9. [Found new broccoli](#found-new-broccoli-creating-new-tickets) (Creating new tickets)
 #### Misc
 10. [Resources](#resources)
+
+----
 
 ## Checklist
 
