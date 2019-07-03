@@ -3,7 +3,7 @@
 # The Laughing Broccoli 
 
 Hello good people!
-The following is a step-by-step walkthrough on how to make my life easier\
+The following is a step-by-step walkthrough on how to make my life easier
 ### How to use:
 * See where you are in the Table of Contents
   * Whose broccoli are you dealing with?
