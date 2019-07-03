@@ -2,9 +2,9 @@
 
 Hello good people!
 The following is a step-by-step walkthrough on how to make my life easier
-
+<br>
 <p align="center">
-  <img height="500" src="laughing_broccoli.jpg">
+  <img height="300" src="laughing_broccoli.jpg">
 </p>
 
 ## Table of Contents
