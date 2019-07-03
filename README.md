@@ -121,6 +121,8 @@ When you find more issues that are unrelated to your ticket, please:
 * Fill in the info
 * Set the Sprint to *To Be Ranked (Future Sprint)*
 
+----
+
 ## Resources
 1. [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
 2. [Developer Subgroup](https://ccle.ucla.edu/course/view/CCLE_Subgroups?section=2)
