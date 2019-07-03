@@ -15,3 +15,6 @@ Common issues documented [here](https://ccle.ucla.edu/mod/qanda/view.php?id=8977
 
 ## How to SSH to docker
 [click here](docker_tips.md#ssh-into-container)
+
+## How to deal with SASS files
+[Click here](https://ccle.ucla.edu/mod/qanda/view.php?id=897711&mode=entry&hook=3040)
