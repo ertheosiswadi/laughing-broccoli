@@ -118,15 +118,3 @@ When you find more issues that are unrelated to your ticket, please:
 * Click on the + button on the left pane
 * Fill in the info
 * Set the Sprint to *To Be Ranked (Future Sprint)*
-
-## Making a better broccoli (Tips and Tricks)
-* Surround commit with comments UCLA MOD:
-
-## Junk
-localhost:8000
-localhost:8001 phpmyadmin
-tips and tricks
-summarize the moodle coding guidelines
-All comments should end with a period
-Do not use literal strings, use get_strings()
-editting css, creating js files
