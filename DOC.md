@@ -28,7 +28,7 @@ The following is a step-by-step walkthrough on how to make my life easier
 
 ### Cooking your broccoli (In Progress)
 - Read the ticket description
-- Click on **Linked issues** (if exist) for reference or clarification
+- Click on *Linked issues* (if exist) for reference or clarification
 - @\<reporter\> to ask further questions
 - Make sure you're in the right branch
   - `git branch` to check your current branch
