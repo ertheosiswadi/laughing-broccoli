@@ -1,11 +1,9 @@
-# The Laughing Broccoli
+<img align="right" height="250" src="laughing_broccoli.jpg">
+
+# The Laughing Broccoli 
 
 Hello good people!
 The following is a step-by-step walkthrough on how to make my life easier
-
-<p align="left">
-<img height="250" src="laughing_broccoli.jpg">
-</p>
 
 ## Table of Contents
 #### My broccoli
