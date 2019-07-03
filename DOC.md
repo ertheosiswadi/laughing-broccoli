@@ -4,13 +4,15 @@ Hello good people!
 The following is a step-by-step walkthrough on how to make my life easier
 
 ## Table of Contents
+#### My broccoli
 1. [Prepping your kitchen](#prepping-your-kitchen)
 2. [Cooking your broccoli (In Progress)](#cooking-your-broccoli-in-progress)
 3. [Plating your broccoli (In Progress &#8594; Code Review)](#cooking-your-broccoli-in-progress)
 4. [Please taste my broccoli (Passed Code Review)](#plating-your-broccoli-in-progress--code-review)
+7. [Cleaning your kitchen (Optional)](#cleaning-your-kitchen-optional)
+#### Friend's broccoli
 5. [Reconsidering your friend's broccoli (Code Review)](#reconsidering-your-friends-broccoli-code-review)
 6. [Tasting your friend's broccoli (Testing)](#tasting-your-friends-broccoli-testing)
-7. [Cleaning your kitchen (Optional)](#cleaning-your-kitchen-optional)
 ## Resources
 1. [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
 2. [Developer Subgroup](https://ccle.ucla.edu/course/view/CCLE_Subgroups?section=2)
