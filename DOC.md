@@ -46,7 +46,7 @@ The following is a step-by-step walkthrough on how to make my life easier
 **When you're done** 
 - organize it to **one or several logical commits** (tip: [git squash](git_stuff.md#squashing-commits)). Use your senses :massage: .... When in doubt, ask Rex :raising_hand:
 - `git push -u origin <branch_name>`
-- Go to [Github Moodle](https://github.com/ucla/moodle) and copy the link of your commit
+- Go to [moodle github](https://github.com/ucla/moodle) and copy the link of your commit
 - [Go to Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) 
   - Write out [test instructions](), before you forget lol
     - consider all possible cases of the problem
