@@ -129,10 +129,15 @@ When you find more issues that are unrelated to your ticket, please:
 - [WTH is git rebase](https://git-rebase.io/)
 - [Git Moodle Walkthrough](https://kb.ucla.edu/articles/ucla-git-walkthrough-for-moodle)
 - [Git Squash](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)
-### Misc
+### CCLE stuff
 - [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
 - [Developer Subgroup](https://ccle.ucla.edu/course/view/CCLE_Subgroups?section=2)
 ### [Coding guidelines](cooking_rules.md#coding-rules)
 ### Docker stuff
 - [Moodle Docker Setup](https://github.com/ccle/moodle-docker)
-
+### Misc
+ #### Tech Talks
+ - [Agile Overview 2019](https://ccle.ucla.edu/mod/url/view.php?id=2511624)
+ - [Development workflow](https://ccle.ucla.edu/mod/url/view.php?id=2506830)
+ - [JS and CSS in Moodle](https://ccle.ucla.edu/mod/url/view.php?id=2509159)
+ - [Moodle Architecture](https://ccle.ucla.edu/mod/url/view.php?id=2511760)
