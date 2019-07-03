@@ -4,7 +4,7 @@ Hello good people!
 The following is a step-by-step walkthrough on how to make my life easier
 
 ## Table of Contents
-1. Prepping your kitchen
+1. [Prepping your kitchen](#prepping-your-kitchen)
 2. Cooking your broccoli (In Progress)
 3. Plating your broccoli (In Progress &#8594; Code Review)
 ## Resources
