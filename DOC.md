@@ -11,11 +11,11 @@ The following is a step-by-step walkthrough on how to make my life easier
 4. [Please taste my broccoli](#please-taste-my-broccoli-passed-code-review) (Code Review &#8594; Testing)
 7. [Cleaning your kitchen](#cleaning-your-kitchen-optional)
 #### Friend's broccoli
-5. [Reconsidering your friend's broccoli (Code Review)](#reconsidering-your-friends-broccoli-code-review)
-6. [Tasting your friend's broccoli (Testing)](#tasting-your-friends-broccoli-testing)
+6. [Reconsidering your friend's broccoli (Code Review)](#reconsidering-your-friends-broccoli-code-review)
+7. [Tasting your friend's broccoli (Testing)](#tasting-your-friends-broccoli-testing)
 #### Emm...
-8. [Getting more broccolis]() ([Backlog](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE&view=planning.nodetail))
-9. [My broccoli had babies]() (Creating new tickets)
+8. [Getting more broccoli](#getting-more-broccoli-backlog) ([Backlog](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE&view=planning.nodetail))
+9. [My broccoli had babies](#my-broccoli-had-babies-creating-new-tickets) (Creating new tickets)
 ## Resources
 1. [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
 2. [Developer Subgroup](https://ccle.ucla.edu/course/view/CCLE_Subgroups?section=2)
@@ -28,8 +28,7 @@ The following is a step-by-step walkthrough on how to make my life easier
 
 
 ## Checklist
-### Getting more broccolis (Backlog)
-### My broccoli had babies (Creating new tickets)
+
 ### Prepping your kitchen
 - Monday? New sprint? [Checkout your new partners](https://ccle.ucla.edu/mod/page/view.php?id=815435)
 - Check out the [Jira board](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE) to see what is up for today
@@ -104,6 +103,21 @@ When you've received your ticket back and it passed review
 
 ### Cleaning your kitchen (Optional)
 - Stop your local dev [(cmd)](docker_tips.md#stop-container)
+
+### Getting more broccoli (Backlog)
+When you have nothing left to do, you may 
+* Go to the ([backlog](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE&view=planning.nodetail)) 
+* Prioritize tickets that have more urgent MoSCoW ratings first
+* Of the equivalent urgency tickets, choose the one you like most
+* Assign yourself the ticket
+* Change the *Sprint* to the current sprint
+* Don't forget to move it to *In Progress*
+### My broccoli had babies (Creating new tickets)
+When you find more issues that are unrelated to your ticket, please:
+* Consult Rex and ask if new tickets can be created
+* Click on the + button on the left pane
+* Fill in the info
+* Set the Sprint to *To Be Ranked (Future Sprint)*
 
 ## Making a better broccoli (Tips and Tricks)
 * Surround commit with comments UCLA MOD:
