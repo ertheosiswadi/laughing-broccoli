@@ -70,7 +70,7 @@ When you've received your ticket back and it passed review
 - Look for the link to the github commit
 - Reconsider the broccoli
 - [Peer review checklist](peer_review.md#peer-review-checklist)
-- [Coding rules](peer_review.md#peer-review-checklist)
+- [Coding rules](cooking_rules.md#coding-rules)
 - Make comments on Github or Jira as needed
 - @\<owner\>
   - mention whether the broccoli looks good or not.
