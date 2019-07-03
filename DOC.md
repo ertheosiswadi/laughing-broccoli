@@ -15,7 +15,7 @@ The following is a step-by-step walkthrough on how to make my life easier
 7. [Tasting your friend's broccoli](#tasting-your-friends-broccoli-testing) (Testing)
 #### Emm...
 8. [Getting more broccoli](#getting-more-broccoli-backlog) ([Backlog](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE&view=planning.nodetail))
-9. [Found new broccoli](#my-broccoli-had-babies-creating-new-tickets) (Creating new tickets)
+9. [Found new broccoli](#found-new-broccoli-creating-new-tickets) (Creating new tickets)
 ## Resources
 1. [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
 2. [Developer Subgroup](https://ccle.ucla.edu/course/view/CCLE_Subgroups?section=2)
