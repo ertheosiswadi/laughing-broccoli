@@ -7,8 +7,8 @@ The following is a step-by-step walkthrough on how to make my life easier
 #### My broccoli
 1. [Prepping your kitchen](#prepping-your-kitchen)
 2. [Cooking your broccoli](#cooking-your-broccoli-in-progress) (In Progress)
-3. [Plating your broccoli](#cooking-your-broccoli-in-progress) (In Progress &#8594; Code Review)
-4. [Please taste my broccoli](#plating-your-broccoli-in-progress--code-review) (Passed Code Review)
+3. [Plating your broccoli](#plating-your-broccoli-in-progress--code-review) (In Progress &#8594; Code Review)
+4. [Please taste my broccoli](#please-taste-my-broccoli-passed-code-review) (Code Review &#8594; Testing)
 7. [Cleaning your kitchen](#cleaning-your-kitchen-optional)
 #### Friend's broccoli
 5. [Reconsidering your friend's broccoli (Code Review)](#reconsidering-your-friends-broccoli-code-review)
