@@ -1,6 +1,4 @@
-<p align="right">	
-<img height="100" src="laughing_broccoli.jpg">	
-</p>
+<img align="right" height="110" src="laughing_broccoli.jpg">
 
 # The Laughing Broccoli 
 
