@@ -25,7 +25,7 @@ The following is a step-by-step walkthrough on how to cook the perfect broccoli
 8. [Getting more broccoli](#getting-more-broccoli-backlog) ([Backlog](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE&view=planning.nodetail))
 9. [Found new broccoli](#found-new-broccoli-creating-new-tickets) (Creating new tickets)
 #### Misc
-10. [Resources](##outside-resources)
+10. [Resources](#outside-resources)
 
 ----
 
