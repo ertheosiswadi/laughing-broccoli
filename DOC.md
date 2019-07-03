@@ -11,8 +11,8 @@ The following is a step-by-step walkthrough on how to make my life easier
 4. [Please taste my broccoli](#please-taste-my-broccoli-passed-code-review) (Code Review &#8594; Testing)
 7. [Cleaning your kitchen](#cleaning-your-kitchen-optional)
 #### Friend's broccoli
-6. [Reconsidering your friend's broccoli (Code Review)](#reconsidering-your-friends-broccoli-code-review)
-7. [Tasting your friend's broccoli (Testing)](#tasting-your-friends-broccoli-testing)
+6. [Reconsidering your friend's broccoli](#reconsidering-your-friends-broccoli-code-review) (Code Review)
+7. [Tasting your friend's broccoli](#tasting-your-friends-broccoli-testing) (Testing)
 #### Emm...
 8. [Getting more broccoli](#getting-more-broccoli-backlog) ([Backlog](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE&view=planning.nodetail))
 9. [My broccoli had babies](#my-broccoli-had-babies-creating-new-tickets) (Creating new tickets)
@@ -126,9 +126,7 @@ When you find more issues that are unrelated to your ticket, please:
 localhost:8000
 localhost:8001 phpmyadmin
 tips and tricks
-git commands
 summarize the moodle coding guidelines
 All comments should end with a period
 Do not use literal strings, use get_strings()
 editting css, creating js files
-Adding new tickets from the backlog
