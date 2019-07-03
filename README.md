@@ -5,7 +5,8 @@
 Hello good people!
 The following is a step-by-step walkthrough on how to make my life easier\
 ### How to use:
-* Use the Table of Contents and see where ur at. 
+* See where you are in the Table of Contents
+  * Whose broccoli are you dealing with?
 * Click on it and go through the points
 
 ## Table of Contents
@@ -21,16 +22,8 @@ The following is a step-by-step walkthrough on how to make my life easier\
 #### Nobody's broccoli
 8. [Getting more broccoli](#getting-more-broccoli-backlog) ([Backlog](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE&view=planning.nodetail))
 9. [Found new broccoli](#found-new-broccoli-creating-new-tickets) (Creating new tickets)
-## Resources
-1. [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
-2. [Developer Subgroup](https://ccle.ucla.edu/course/view/CCLE_Subgroups?section=2)
-3. [Git Squash](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)
-4. [Moodle Coding Style](https://docs.moodle.org/dev/Coding_style)
-5. [Git Moodle Walkthrough](https://kb.ucla.edu/articles/ucla-git-walkthrough-for-moodle)
-6. [Moodle Docker Setup](https://github.com/ccle/moodle-docker)
-7. [Git for dummies](https://github.com/k88hudson/git-flight-rules#flight-rules-for-git)
-8. [WTH is git rebase](https://git-rebase.io/)
-
+#### Misc
+10. [Resources](#resources)
 
 ## Checklist
 
@@ -123,3 +116,13 @@ When you find more issues that are unrelated to your ticket, please:
 * Click on the + button on the left pane
 * Fill in the info
 * Set the Sprint to *To Be Ranked (Future Sprint)*
+
+## Resources
+1. [Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
+2. [Developer Subgroup](https://ccle.ucla.edu/course/view/CCLE_Subgroups?section=2)
+3. [Git Squash](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)
+4. [Moodle Coding Style](https://docs.moodle.org/dev/Coding_style)
+5. [Git Moodle Walkthrough](https://kb.ucla.edu/articles/ucla-git-walkthrough-for-moodle)
+6. [Moodle Docker Setup](https://github.com/ccle/moodle-docker)
+7. [Git for dummies](https://github.com/k88hudson/git-flight-rules#flight-rules-for-git)
+8. [WTH is git rebase](https://git-rebase.io/)
