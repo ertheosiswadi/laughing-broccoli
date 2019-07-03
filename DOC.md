@@ -32,8 +32,8 @@ The following is a step-by-step walkthrough on how to make my life easier
 - @\<reporter\> to ask further questions
 - Make sure you're in the right branch
   - `git branch` to check your current branch
-  - If you're just starting the ticket, [create a new branch](git_stuff.md#create-a-new-branch-off-master): 
-  - Else: `git checkout <the ticket's branchname>`
+  - If you're just starting the ticket, [create a new branch](git_stuff.md#create-a-new-branch-off-master): \
+    Else: `git checkout <the ticket's branchname>`
 - Cook the broccoli [tips and tricks](cooking_tips.md)
 - Make git commits as needed ([cmd](git_stuff.md#commit-files-you-changed))
   - Only add changes you made. Sometimes you'll see that there are changes that you didn't make (submodule updates).
@@ -76,8 +76,8 @@ When you've received your ticket back and it passed review
   - mention whether the broccoli looks good or not.
   - paste your [peer review checklist](peer_review.md#peer-review-checklist)
 - Assign ticket back to owner
-- If broccoli **looks good**: move to Testing
-- Else: move to In Progress
+- If broccoli **looks good**: move to Testing\
+  Else: move to In Progress
 
 ### Tasting your friend's broccoli (Testing)
 - Understand the problem
@@ -85,8 +85,8 @@ When you've received your ticket back and it passed review
 - NOW [TASTE](https://test.ccle.ucla.edu/) IT :tongue: :yum: :mask: 
 - @\<owner\> and mention whether the broccoli is delicious or not
 - Assign ticket back to owner
-- If broccoli is **delicious**: move to Passed :white_check_mark:
-- Else: move to In Progress
+- If broccoli is **delicious**: move to Passed :white_check_mark:\
+  Else: move to In Progress
 
 ### Cleaning your kitchen (Optional)
 - Stop your local dev [(cmd)](docker_tips.md#stop-container)
