@@ -57,9 +57,10 @@ The following is a step-by-step walkthrough on how to cook the perfect broccoli
 **Final checks:**
 * Am I following these [coding rules](cooking_rules.md#coding-rules)
 * Am I editting core moodle code? [click here](cooking_rules.md#what-to-do)
+* Did my code pass the code checker? (log in as admin and go to Site Administration -> Development -> Code checker)
 
 **When you're done** 
-- organize it to **one or several logical commits** (tip: [git squash](git_stuff.md#squashing-commits)). Use your senses :massage: .... When in doubt, ask Rex :raising_hand:
+- Organize it to **one or several logical commits** (tip: [git squash](git_stuff.md#squashing-commits)). Use your senses :massage: .... When in doubt, ask Rex :raising_hand:
 - `git push -u origin <branch_name>`
 - Go to [moodle github](https://github.com/ucla/moodle) and copy the link of your commit
 - [Go to Jira](https://ucla-ccle.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CCLE)
