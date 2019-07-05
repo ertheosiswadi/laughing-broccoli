@@ -3,7 +3,7 @@ Common issues documented [here](https://ccle.ucla.edu/mod/qanda/view.php?id=8977
 [Your code maintainer is a violent psychopath](https://blog.codinghorror.com/coding-for-violent-psychopaths/)
 ## How to use Strings
 
-## Usefule links
+## Useful links
 #### local dev
 `localhost:8000`
 #### phpMyAdmin
